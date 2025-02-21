@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToysStore", "SmartToysStore\SmartToysStore.csproj", "{EFDB72C6-6674-4C9B-96B0-E5F45B5ECD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToysStore.DataAccess", "SmartToysStore.DataAccess\SmartToysStore.DataAccess.csproj", "{F467626B-6816-4982-89DB-DB6581E451CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToysStore.Models", "SmartToysStore.Models\SmartToysStore.Models.csproj", "{A4C01F88-0DB9-4FC6-B068-C65E2CAF98A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartToysStore.Utility", "SmartToysStore.Utility\SmartToysStore.Utility.csproj", "{CF2A2A5A-7132-4619-A6FD-CA6BFD7BB432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDB72C6-6674-4C9B-96B0-E5F45B5ECD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDB72C6-6674-4C9B-96B0-E5F45B5ECD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDB72C6-6674-4C9B-96B0-E5F45B5ECD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDB72C6-6674-4C9B-96B0-E5F45B5ECD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F467626B-6816-4982-89DB-DB6581E451CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F467626B-6816-4982-89DB-DB6581E451CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F467626B-6816-4982-89DB-DB6581E451CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F467626B-6816-4982-89DB-DB6581E451CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C01F88-0DB9-4FC6-B068-C65E2CAF98A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C01F88-0DB9-4FC6-B068-C65E2CAF98A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C01F88-0DB9-4FC6-B068-C65E2CAF98A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C01F88-0DB9-4FC6-B068-C65E2CAF98A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2A2A5A-7132-4619-A6FD-CA6BFD7BB432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2A2A5A-7132-4619-A6FD-CA6BFD7BB432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2A2A5A-7132-4619-A6FD-CA6BFD7BB432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2A2A5A-7132-4619-A6FD-CA6BFD7BB432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
